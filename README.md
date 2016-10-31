@@ -1,25 +1,27 @@
-# _TREEHOUSE BOOTSTRAP LESSON _
+# TREEHOUSE BOOTSTRAP LESSON
 
-#### _FULL STACK CONF_
+#### FULL STACK CONF
 
 ## Description
-
+Treehouse bootstrap 4 basic lesson.
+Learn to use Bootstrap 4, one of the most popular open source front end frameworks, to help you build a functional design and layout in little time. Full lesson is at https://teamtreehouse.com/library/bootstrap-4-basics
 
 ## Setup/Installation Requirements
-
+Clone this repository https://github.com/maldonmeehan/treehouse-bootstrap.git
+Open the index page in a browser of your choice.
 
 ## Known Bugs
 
-* _none at this time_
+* none at this time
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas, or concerns, please feel free to contact me on github._
+If you run into any issues or have questions, ideas, or concerns, please feel free to contact me on github.
 
 ## Technologies Used
 
-* _HTML_
-* _Bootstrap
+* HTML
+* Bootstrap
 
 *MIT License*
 
